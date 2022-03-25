@@ -11,5 +11,8 @@
 \* __현재 수강신청 사이트가 변경되어서 사용 불가__ <br/>
 수강신청 자동화. 정정기간 때 과목 줍기 가능.
 
-### 4. coursera_streamlit
+### 4. coursera-streamlit
 coursera의 "Build a Data Science Web App with Streamlit and Python" 프로젝트 강좌를 수강하면서 생성한 웹앱 <br/>
+
+### 5. coursera-google_python
+coursera에서 구글의 파이썬 단기 집중 과정을 수강하며 수행한 과제
